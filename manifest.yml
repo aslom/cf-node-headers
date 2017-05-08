@@ -1,0 +1,6 @@
+---
+applications:
+- name: node-headers
+  memory: 128M
+  instances: 1
+  random-route: true

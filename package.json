@@ -1,0 +1,14 @@
+{
+  "name": "node-headers",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "7.7.3",
+    "npm": "4.1.2"
+  },
+  "dependencies": {
+  }
+}
